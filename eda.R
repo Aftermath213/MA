@@ -1,7 +1,6 @@
 getwd()
 #generate connection to DB
-source("./connection.R")
-
+source("/home/dan/DW/connection.R")
 #load packages for data analysis
 library(dplyr)
 library(ggplot2)
