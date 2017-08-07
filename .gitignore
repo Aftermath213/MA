@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+setup/*
 .connection.R
 connection.R
