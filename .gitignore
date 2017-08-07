@@ -5,3 +5,4 @@
 setup/*
 .connection.R
 connection.R
+test.R
