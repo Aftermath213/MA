@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 setup/*
+data/*
 .connection.R
 connection.R
 test.R
